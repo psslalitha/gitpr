@@ -1,0 +1,9 @@
+GIT WORK-FLOW
+git init
+git clone
+cd repo
+git add .
+git commit -m "message"
+git push
+git fetch
+git pull
